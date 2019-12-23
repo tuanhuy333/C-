@@ -1,0 +1,2 @@
+dong nay la tui ghi vo bang fprintf do nhe 
+dong nay la tui ghi vo bang fputs do nhe 
